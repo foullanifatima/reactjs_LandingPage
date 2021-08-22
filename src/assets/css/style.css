@@ -1,0 +1,136 @@
+p{
+  color: #756d6d;
+  font-size:1em;
+  text-size-adjust: initial;
+
+}
+
+/* Sytle the header*/
+h4{
+  color: #ff6b6bfa;
+  font-size:1.25em ;
+  text-size-adjust: initial;
+
+}
+h1{
+  font-size:2.5em;
+  text-size-adjust: initial;
+}
+/*header*/
+nav
+{
+  background-color: #fff;
+  padding-left: 8%;
+  padding-right: 8%;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16);
+  height: 60px;
+  display: block;
+  position: relative;
+}
+.navbar-fixed-top
+{
+  position: fixed;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+.navbar-brand
+{
+  color: #B61919;
+}
+.nav-link
+{
+  color: #302e2e;
+  padding-left: 20px;
+  font-size:1em;
+}
+/*hero section*/
+.hero
+{
+  padding-top: 60px;
+}
+/* Solid deviderr */
+hr.solid {
+  border-top: 3px solid rgb(133, 131, 131);
+  width: 30%;
+  
+}
+/*padding Container*/
+.container
+{
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+/*about title*/
+.about-container
+{
+   margin:0;
+   vertical-align: middle;
+   text-align: center;
+   
+}
+/* button*/
+.button
+{
+  background-color:#FF6B6B ;
+  border: beige 1px solid;
+  color: #fff;
+  padding-top : 1%;
+  padding-bottom: 1%;
+  padding-right: 4%;
+  padding-left: 4%;
+}
+.button:hover
+{
+  background-color: #B61919;
+  border: #B61919 1px solid;
+  color: #fff;
+}
+/*botton2*/
+.button2
+{
+  background-color:#3a44b6 ;
+  border: beige 1px solid;
+  color: #fff;
+  padding-top : 1%;
+  padding-bottom: 1%;
+  padding-right: 4%;
+  padding-left: 4%;
+}
+.button2:hover
+{
+  background-color:#262A53;
+  border: #262A53 1px solid;
+  color: #fff;
+}
+/** Common design**/
+.full-height
+{
+  height: 100%;
+}
+.center
+{
+  vertical-align: middle;
+}
+.col-section
+{
+  margin: auto;
+  height: fit-content;
+  line-height: 20px;
+  padding-left: 8%;
+  padding-right: 8%;
+  vertical-align: middle;
+}
+.center
+{
+ margin: auto;
+ vertical-align: middle;
+ text-align: center;
+ padding: 5%;
+}
+.col-section-image 
+{
+  width: 100%;
+  height: fit-content;
+  align-self: center;
+}
