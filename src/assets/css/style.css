@@ -38,6 +38,10 @@ nav
 {
   color: #B61919;
 }
+.navbar-toggler-icon
+{
+  color: #302e2e;
+}
 .nav-link
 {
   color: #302e2e;
@@ -133,4 +137,20 @@ hr.solid {
   width: 100%;
   height: fit-content;
   align-self: center;
+}
+/*Contact section*/
+.contact-form
+{
+  line-height: 30px;
+}
+
+/*footer*/
+.page-footer {
+  background-color: rgb(29, 27, 27);
+  color: #ccc;
+  padding: 20px 0 20px 0;
+}
+.footer-copyright {
+  color: #666;
+  padding: 20px 0;
 }
